@@ -11,8 +11,8 @@ If no one has guessed correct, the bot will add another card. For example, you c
 Because you chose `b r b`, and it in the cards (`b *b r b*`), you win.
 
 
-### The goal is for the bot to always (or at least for the most part) win
+> ### The goal is for the bot to always (or at least for the most part) win
 
 
 
-You can run this on your machine, and if you have any problem - Shmoolik#4454 on Discord.
+> You can run this on your machine, and if you have any problem - Shmoolik#4454 on Discord.
