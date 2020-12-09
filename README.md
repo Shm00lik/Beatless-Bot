@@ -1,7 +1,7 @@
 # Beatless-Bot
 You can play with this bot a game that I don't remember his name
 
-##How To Play
+## How To Play
 So basically you need to choose between two colors, (r)ed and (b)lack. These are our cards.\
 You need to choose three cards, like `r b r` or `b b b`, The bot will also choose three cards.\
 After that, the bot will **randomly select** three cards. If any of the choices (yours or bot's) is match to the selected cards, the selector will win.\
